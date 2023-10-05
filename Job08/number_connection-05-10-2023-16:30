@@ -1,5 +1,9 @@
-titou    tty7         :0               Wed Oct  4 08:59   still logged in
-reboot   system boot  6.1.0-12-amd64   Wed Oct  4 08:57   still running
+titou    tty7         :0               Thu Oct  5 15:53    gone - no logout
+reboot   system boot  6.1.0-12-amd64   Thu Oct  5 15:52   still running
+titou    tty7         :0               Thu Oct  5 07:43 - crash  (08:09)
+reboot   system boot  6.1.0-12-amd64   Thu Oct  5 07:43   still running
+titou    tty7         :0               Wed Oct  4 08:59 - 15:32  (06:33)
+reboot   system boot  6.1.0-12-amd64   Wed Oct  4 08:57 - 15:32  (06:34)
 titou    tty7         :0               Tue Oct  3 17:02 - 17:07  (00:05)
 reboot   system boot  6.1.0-12-amd64   Tue Oct  3 17:01 - 17:07  (00:06)
 titou    tty7         :0               Tue Oct  3 08:05 - 15:28  (07:22)
@@ -13,4 +17,4 @@ titou    tty7         :0               Wed Sep 20 19:25 - 19:26  (00:01)
 reboot   system boot  6.1.0-12-amd64   Wed Sep 20 19:24 - 19:26  (00:02)
 
 wtmp commence Wed Sep 20 19:24:36 2023
-7
+9
